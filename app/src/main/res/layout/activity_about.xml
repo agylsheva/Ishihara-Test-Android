@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".About"
+
+    >
+
+    <TextView
+        android:layout_width="350dp"
+        android:layout_height="350dp"
+        android:layout_marginBottom="30dp"
+        android:text="Aplikasi “Test Buta Warna Metode Ishihara” ini merupakan aplikasi untuk memeriksa apakah seseorang terkena buta warna atau tidak dengan melakukan test dengan metode Ishihara. Di dalam aplikasi ini terdapat beberapa soal pilihan ganda untuk menguji apakah seseorang terindikasi mengalami buta warna."
+        android:textAlignment="textStart"
+        android:gravity="center"
+        android:textColor="@android:color/black"
+        android:textSize="25sp"></TextView>
+
+
+</LinearLayout>
